@@ -1,0 +1,12 @@
+{
+  "name": "solidity-todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HongThaiPham/solidity-todolist.git",
+  "author": "Pham Hong Thai <hongthaipro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "fs": "^0.0.1-security"
+  }
+}
